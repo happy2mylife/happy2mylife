@@ -1,9 +1,9 @@
 # SNS etc...
-(Twitter)[https://twitter.com/h2m_kinoko]
-(Qiita)[https://qiita.com/h2m_kinoko]
-(Facebook)[https://www.facebook.com/happy.happy.children/]
-(Profile)[https://sites.google.com/view/kinokofolio]
-(HP)[https://mashandroom.org]
+[Twitter](https://twitter.com/h2m_kinoko)
+[Qiita](https://qiita.com/h2m_kinoko)
+[Facebook](https://www.facebook.com/happy.happy.children)
+[Profile](https://sites.google.com/view/kinokofolio)
+[HP](https://mashandroom.org)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=happy2mylife&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
