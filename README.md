@@ -1,9 +1,23 @@
+# I'm not kinoko, but may be kinoko.
+
+<img src="https://mashandroom.org/wp-content/uploads/2017/04/logo-320x320.png"/>
+
 #### SNS etc...
 - [Twitter](https://twitter.com/h2m_kinoko)
 - [Qiita](https://qiita.com/h2m_kinoko)
+  - [![My Qiita posts](https://qiita-badge.apiapi.app/s/h2m_kinoko/posts.svg)](http://qiita.com/h2m_kinoko)
+    [![My Qiita contributions](https://qiita-badge.apiapi.app/s/h2m_kinoko/contributions.svg)](http://qiita.com/h2m_kinoko)
+    [![My Qiita followers](https://qiita-badge.apiapi.app/s/h2m_kinoko/followers.svg)](http://qiita.com/h2m_kinoko)
+  
 - [Facebook](https://www.facebook.com/happy.happy.children)
 - [Profile](https://sites.google.com/view/kinokofolio)
 - [HP](https://mashandroom.org)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=happy2mylife&theme=monokai)
+
+)
+
+![toropy](https://github-profile-trophy.vercel.app/?username=happy2mylife&theme=onedark)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=happy2mylife&show_icons=true&theme=radical)
