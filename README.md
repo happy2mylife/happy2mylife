@@ -15,8 +15,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=happy2mylife&theme=monokai)
 
-)
-
 ![toropy](https://github-profile-trophy.vercel.app/?username=happy2mylife&theme=onedark)
 
 
